@@ -14,6 +14,7 @@ ssl
 
 # profiling files
 chrome-profiler-events*.json
+speed-measure-plugin*.json
 
 # IDEs and editors
 /.idea
@@ -45,14 +46,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-##
-## Visual Studio Code
-##
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-appsettings.json
